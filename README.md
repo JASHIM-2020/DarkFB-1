@@ -1,7 +1,7 @@
 # DarkFB
 ### Decompiled By : Cyber ID <br>
 
-*Installation <br>
+* Installation <br>
 $ pkg install python <br>
 $ pkg install python2 <br>
 $ pip2 install requests <br>
