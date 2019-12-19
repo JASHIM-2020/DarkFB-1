@@ -1,7 +1,7 @@
 #!/use/bin/Python 2
 # Writer : Cyber ID
-# Date : Thursday, 19 December 2019
 # Time WIB : 19.24
+# Date : Thursday, 19 December 2019
 # Thank you to Shavanet Internet Stalls & 
 # The One God Who Gave Me a Programmer ...
 
